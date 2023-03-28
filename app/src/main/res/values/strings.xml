@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">KalkulatorKu</string>
+    <string name="kalkulatorVolume">Kalkulator Luas Persegi Panjang</string>
+    <string name="kalkulatorIntro">"Kalkulator ini digunakan untuk menghitung luas persegi panjang secara otomatis. Masukan input ukuran yang ingin dihitung : "</string>
+    <string name="panjangBangun">Panjang</string>
+    <string name="lebarBangun">Lebar</string>
+    <string name="hitung">Hitung Luas</string>
+    <string name="persegi_panjang">Persegi Panjang</string>
+    <string name="luas_bangun">Luas Bangun :</string>
+    <string name="panjang_invalid">Panjang Belum Diisi</string>
+    <string name="lebar_invalid">Lebar belum diisi</string>
+    <string name="reset">Reset</string>
+</resources>
